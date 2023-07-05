@@ -92,7 +92,7 @@
         "UseRightSideProgress": true,
         "LauncherSpriteURLMultiLang": true,
         "LauncherSpriteURLMultiLangFallback": "en-us",
-        "LauncherSpriteURL": "https://raw.githubusercontent.com/hekora/HekoraLauncher/main/metadata/Ads/Project%20Siege.json",
+        "LauncherSpriteURL": "https://raw.githubusercontent.com/hekora/HekoraLauncher/main/metadata/Ads/Astrooyer.json",
         "LauncherResourceURL": "https://sdk-os-static.mihoyo.com/bh3_global/mdk/launcher/api/resource?channel_id=1\u0026key=tEGNtVhN\u0026launcher_id=9\u0026sub_channel_id=1",
         "IsRepairEnabled": true,
         "InternalGameNameFolder": "Astrooyer",
