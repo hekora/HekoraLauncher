@@ -1,0 +1,99 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "adv": {
+            "background": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/mc2dbackground.png",
+            "icon": "",
+            "url": "",
+            "version": "94",
+            "bg_checksum": "aa825f644d73d5d76cc6deff4fdc122b"
+        },
+        "banner": [
+            {
+                "banner_id": "64a26b0cba487d809f249ccb",
+                "name": "New ores!",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/caves.png",
+                "url": "",
+                "order": "57"
+            },
+            {
+                "banner_id": "64a26b0cba487d809f249ccb",
+                "name": "Free cape!",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/earlyacccape.png",
+                "url": "",
+                "order": "58"
+            },
+            {
+                "banner_id": "64a26b0cba487d809f249ccb",
+                "name": "Foxes ^^",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/bg/foxes.png",
+                "url": "",
+                "order": "59"
+            }
+        ],
+        "icon": [
+            {
+                "icon_id": "5f6820e997670927c0e3044b",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/fd58815f28106286a659f27c05ac8db5_4343322396733609010.png",
+                "tittle": "Official Youtube",
+                "url": "https://www.youtube.com/@hekora",
+                "qr_img": "",
+                "qr_desc": "",
+                "img_hover": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/ed61a38292eb5b6300bf66f7ffdac142_85766544021801698.png",
+                "other_links": [],
+                "title": "Official Youtube",
+                "icon_link": "https://www.youtube.com/@hekora",
+                "links": [
+                    {
+                        "title": "",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "icon_id": "6340eab02ea84f780fe9d213",
+                "img": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/4183c967616af8b1290a6ed43e7b8cab_6217543409908419271.png",
+                "tittle": "Official Twitter",
+                "url": "https://twitter.com/HekoraStudio",
+                "qr_img": "",
+                "qr_desc": "",
+                "img_hover": "https://raw.githubusercontent.com/hekora/HekoraConfig/main/icons/1758995f0c52344e7515ca5674d410d3_5802627553554210671.png",
+                "other_links": [],
+                "title": ".official Twitter",
+                "icon_link": "https://twitter.com/HekoraStudio",
+                "links": [
+                    {
+                        "title": "",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "post": [
+            {
+                "post_id": "64a3ce5b9dfd76c5adcf3724",
+                "type": "POST_TYPE_INFO",
+                "tittle": "\"Summer Paradise\" Event: Take Part to Obtain Lava Serpent's Outfit!",
+                "url": "",
+                "show_time": "07/03",
+                "order": "12",
+                "title": "\"Summer Paradise\" Event: Take Part to Obtain Lava Serpent's Outfit!"
+            }
+        ],
+        "qq": [],
+        "more": {
+            "activity_link": "",
+            "announce_link": "",
+            "info_link": "",
+            "news_link": "",
+            "trends_link": "",
+            "supply_link": "",
+            "tools_link": ""
+        },
+        "links": {
+            "faq": "",
+            "version": "2"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AppPush": [
+        {
+            "MsgId": 5000005,
+            "IsDisposable": true,
+            "Severity": "Success",
+            "Title": "Minecraft 2D added!",
+            "Message": "We've just pushed Minecraft 2D alpha version.",
+            "Show": true,
+            "ValidForVerBelow": "1.9.0.0",
+            "ActionProperty": {
+                "ActionType": "ClickLink",
+                "ActionValue": {
+                    "URL": "https://github.com",
+                    "Description": "See New Added Stuff",
+                    "GlyphIcon": "",
+                    "GlyphFont": "FontAwesomeSolid"
+                }
+            }
+        }
+    ],
+    "RegionPush": [
+    ]
+}

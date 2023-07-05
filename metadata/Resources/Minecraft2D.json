@@ -1,0 +1,28 @@
+{
+    "retcode": 0,
+    "message": "OK",
+    "data": {
+        "game": {
+            "latest": {
+                "name": "",
+                "version": "1.7.1",
+                "path": "https://github.com/hekora/HekoraConfig/raw/main/Minecraft 2D.7z",
+                "size": "78207569",
+                "md5": "9b354adde73dd6059f4da0a45c107e7f",
+                "entry": "Minecraft 2D.exe",
+                "voice_packs": [],
+                "decompressed_path": "",
+                "segments": [],
+                "package_size": "18969554"
+            },
+            "diffs": []
+        },
+        "plugin": null,
+        "web_url": "a",
+        "force_update": null,
+        "pre_download_game": null,
+        "deprecated_packages": [],
+        "sdk": null,
+        "deprecated_files": []
+    }
+}
