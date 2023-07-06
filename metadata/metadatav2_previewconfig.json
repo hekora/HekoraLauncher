@@ -1,37 +1,5 @@
 {
   "MetadataV2": {
-    "Project Siege": {
-      "Global": {
-        "ProfileName": "PSGlobal",
-        "GameChannel": "Stable",
-        "IsExperimental": false,
-        "ZoneName": "Global",
-        "ZoneFullname": "Project Siege (Global)",
-        "ZoneDescription": "Project Siege, A living world MMORPG game.",
-        "ZoneURL": "",
-        "ZoneLogoURL": "",
-        "ZonePosterURL": "",
-        "InstallRegistryLocation": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Project Siege",
-        "DefaultGameLocation": "C:\\Program Files\\Project Siege",
-        "ConfigRegistryLocation": "Software\\Hekora\\Project Siege",
-        "FallbackLanguage": "en",
-        "GameDirectoryName": "Project Siege game",
-        "GameExecutableName": "ProjectSiege.exe",
-        "GameType": "Siege",
-        "VendorType": "Hekora",
-        "GameDispatchURL": "",
-        "ProtoDispatchKey": "",
-        "IsHideSocMedDesc": false,
-        "UseRightSideProgress": true,
-        "LauncherSpriteURLMultiLang": true,
-        "LauncherSpriteURLMultiLangFallback": "en-us",
-        "LauncherSpriteURL": "https://raw.githubusercontent.com/hekora/HekoraLauncher/main/metadata/Ads/Project%20Siege.json",
-        "LauncherResourceURL": "https://sdk-os-static.mihoyo.com/bh3_global/mdk/launcher/api/resource?channel_id=1\u0026key=tEGNtVhN\u0026launcher_id=9\u0026sub_channel_id=1",
-        "IsRepairEnabled": true,
-        "InternalGameNameFolder": "Project Siege",
-        "InternalGameNameInConfig": "Project Siege"
-      }
-    },
     "Minecraft 2D": {
       "Alpha": {
         "ProfileName": "MCAlpha",
@@ -65,38 +33,6 @@
         "IsRepairEnabled": true,
         "InternalGameNameFolder": "Minecraft 2D",
         "InternalGameNameInConfig": "Minecraft 2D"
-      }
-    },
-    "Astrooyer": {
-      "Alpha": {
-        "ProfileName": "AstrooyerGlobal",
-        "GameChannel": "Stable",
-        "IsExperimental": true,
-        "ZoneName": "Alpha",
-        "ZoneFullname": "Astrooyer (Alpha)",
-        "ZoneDescription": "Astrooyer a open world Sandbox planet explore game!",
-        "ZoneURL": "",
-        "ZoneLogoURL": "",
-        "ZonePosterURL": "",
-        "InstallRegistryLocation": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Astrooyer",
-        "DefaultGameLocation": "C:\\Program Files\\Astrooyer",
-        "ConfigRegistryLocation": "Software\\Hekora\\Astrooyer",
-        "FallbackLanguage": "en",
-        "GameDirectoryName": "Astrooyer game",
-        "GameExecutableName": "Astrooyer.exe",
-        "GameType": "Astrooyer",
-        "VendorType": "Hekora",
-        "GameDispatchURL": "",
-        "ProtoDispatchKey": "",
-        "IsHideSocMedDesc": false,
-        "UseRightSideProgress": true,
-        "LauncherSpriteURLMultiLang": true,
-        "LauncherSpriteURLMultiLangFallback": "en-us",
-        "LauncherSpriteURL": "https://raw.githubusercontent.com/hekora/HekoraLauncher/main/metadata/Ads/Astrooyer.json",
-        "LauncherResourceURL": "https://sdk-os-static.mihoyo.com/bh3_global/mdk/launcher/api/resource?channel_id=1\u0026key=tEGNtVhN\u0026launcher_id=9\u0026sub_channel_id=1",
-        "IsRepairEnabled": true,
-        "InternalGameNameFolder": "Astrooyer",
-        "InternalGameNameInConfig": "Astrooyer"
       }
     }
   },
