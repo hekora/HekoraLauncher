@@ -5,7 +5,7 @@
             "IsDisposable": true,
             "Severity": "Success",
             "Title": "Minecraft 2D added!",
-            "Message": "We've just pushed Minecraft 2D alpha version.",
+            "Message": "We've just pushed Minecraft 2D alpha version 1.8.6!",
             "Show": true,
             "ValidForVerBelow": "1.9.0.0",
             "ActionProperty": {
