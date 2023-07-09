@@ -5,15 +5,15 @@
         "game": {
             "latest": {
                 "name": "",
-                "version": "1.7.2",
-                "path": "https://github.com/hekora/HekoraLauncher/raw/main/games/Minecraft%202D.7z",
-                "size": "78207569",
-                "md5": "9b354adde73dd6059f4da0a45c107e7f",
+                "version": "1.8.6",
+                "path": "https://github.com/hekora/HekoraConfig/raw/main/Minecraft 2D.7z",
+                "size": "79125498",
+                "md5": "ed89c679ec81db71e5aaa8cdbf9cb4cd",
                 "entry": "Minecraft 2D.exe",
                 "voice_packs": [],
                 "decompressed_path": "",
                 "segments": [],
-                "package_size": "18969554"
+                "package_size": "19166291"
             },
             "diffs": []
         },
